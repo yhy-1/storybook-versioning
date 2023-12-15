@@ -15,9 +15,10 @@ const config = {
     autodocs: "tag",
   },
   refs: {
-    "design-system": {
-      title: "Design System",
-      url: "https://657a22d9f0d80affc749676c-nhgjsbaknd.chromatic.com/",
+    "v22.x": {
+      title: "v22.x",
+      url: "https://v22-x--657a22d9f0d80affc749676c.chromatic.com",
+      expanded: false,
     },
   },
 };

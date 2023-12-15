@@ -16,8 +16,8 @@ const config = {
   },
   refs: {
     "design-system": {
-      title: "Design System",
-      url: "https://657a22d9f0d80affc749676c-nhgjsbaknd.chromatic.com/",
+      title: "v23.x",
+      url: "https://v23-x--657a22d9f0d80affc749676c.chromatic.com",
     },
   },
 };

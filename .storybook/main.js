@@ -15,10 +15,14 @@ const config = {
     autodocs: "tag",
   },
   refs: {
-    main: {
-      title: "Older version",
-      url: "https://master--657a22d9f0d80affc749676c.chromatic.com",
+    "v22.x": {
+      title: "v22.x",
+      url: "https://v22-x--657a22d9f0d80affc749676c.chromatic.com",
       expanded: false,
+    },
+    "v23.x": {
+      title: "v23.x",
+      url: "https://v23-x--657a22d9f0d80affc749676c.chromatic.com",
     },
   },
 };
